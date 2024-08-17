@@ -48,6 +48,12 @@ const people = [
     designation: "Harmonic Pattern, AST",
     image: "/team/sad.jpg",
   },
+  {
+    id: 8,
+    name: "The one and only Geloyyy",
+    designation: "ICT, His the mentor of your mentor!",
+    image: "/team/sad.jpg",
+  },
 ];
 
 export function HeroSection() {
