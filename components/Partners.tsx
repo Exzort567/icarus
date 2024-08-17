@@ -217,7 +217,7 @@ export const CloseIcon = () => {
 
 const cards = [
   {
-    description: "SINGAPORE TOKEN2049, the world’s largest crypto event.",
+    description: "SINGAPORE TOKEN2049, the world's largest crypto event.",
     title: "Icarus x TOKEN2049 | The Premier Crypto Event",
     src: "https://cdn.beacons.ai/user_content/8sWdAP9RcBcMieKOQtz8sTkoO2L2/referenced_images/dca0714f-c083-4a54-8289-fbb02c9b0485__link-in-bio__links-block__home__87d3db4d-02ee-4f1e-bd3b-e618372365e7__024965c1-451a-4cac-833c-2893117d00f9__1d9af5ef-8aa0-41bb-89db-731f1ca715cb.webp?t=1722968745919",
     ctaText: "Visit",
@@ -225,7 +225,7 @@ const cards = [
     content: () => {
       return (
         <p>
-         SINGAPORE TOKEN2049, the world’s largest crypto event. You can get 15% discount by using 'Icarus15' during ticket payments.
+         SINGAPORE TOKEN2049, the world&lsquo;s largest crypto event. You can get 15% discount by using &lsquo;Icarus15&lsquo; during ticket payments.
         </p>
       );
     },
